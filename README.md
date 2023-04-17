@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/zdtEdsT.png)
+![](https://i.imgur.com/Bi8TYy9.png)
 > 當父元素的寬度縮小時，響應式圖片會隨著縮小
